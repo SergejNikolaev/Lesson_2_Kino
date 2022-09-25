@@ -1,0 +1,58 @@
+body {
+  background-color: beige;
+  text-align: center;
+}
+img {
+  width: 400px;
+}
+h1 {
+  font-size: 100px;
+  color: brown;
+}
+h3 {
+  font-size: 30px;
+}
+h2 {
+  text-align: right;
+  margin-right: 100px;
+  color: red;
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
+  color: brown;
+  font-size: 40px;
+}
+.ted {
+  color: blue;
+}
+.love {
+  color: red;
+}
+.adventure {
+  color: aqua;
+}
+div {
+  display: inline-block;
+  width: 600px;
+  border: 2px solid black;
+  padding: 10px 0 15px 0;
+  margin: 10px 15px 0 0;
+  border-radius: 25px;
+}
+ul {
+  list-style-type: none;
+  font-size: 20px;
+}
+ol {
+  list-style-type: none;
+  font-size: 20px;
+}
+.menu-link {
+  margin-right: 25px;
+  font-size: 30px;
+  color: blue;
+}
+button {
+  font-size: 50px;
+}
